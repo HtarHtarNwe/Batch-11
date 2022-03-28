@@ -2,23 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84d1630c-db5d-4222-9330-f2ee42fa6346" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/VariablesInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/HomWork1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/two/AscendingAndDescendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/two/CustomArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/two/NestedIFStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/two/OOPLessons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/two/ObjectAndClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weekthreeexercise/AreaofCircleAndSquaare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weekthreeexercise/CelsiusToFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weekthreeexercise/EvenAndOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weekthreeexercise/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weekthreeexercise/Horoscope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weekthreeexercise/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggreation/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggreation/Aggregation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggreation/KeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggreation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Override/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Override/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Override/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/AboutMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/AccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/BankingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/InitializeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/MethodOverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/OOPExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/ObjectInitial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/ObjectOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjectOne/array/ArrayCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectOne/array/ArrayCopy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjectOne/array/DuplicateElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectOne/array/DuplicateElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjectOne/array/TwoDimensionalArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectOne/array/TwoDimensionalArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/DuplicateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/DuplicateElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/TwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/TwoDimensionalArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +71,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MyOOP">
-    <configuration name="HomWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.HomWork1" />
+  <component name="RunManager" selected="Application.ATMProject">
+    <configuration name="ATMProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="three.oop.ATMProject" />
       <module name="ProjectOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.*" />
+          <option name="PATTERN" value="three.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.MyOOP" />
+    <configuration name="AreaofCircleAndSquaare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weekthreeexercise.AreaofCircleAndSquaare" />
       <module name="ProjectOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="Weekthreeexercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Student" />
+    <configuration name="CelsiusToFahrenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weekthreeexercise.CelsiusToFahrenheit" />
       <module name="ProjectOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="Weekthreeexercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Students" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weekthreeexercise.Factorial" />
       <module name="ProjectOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="Weekthreeexercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.VariablesInJava" />
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weekthreeexercise.LeapYear" />
       <module name="ProjectOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="Weekthreeexercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyOOP" />
-        <item itemvalue="Application.Students" />
-        <item itemvalue="Application.VariablesInJava" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.HomWork1" />
+        <item itemvalue="Application.ATMProject" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.CelsiusToFahrenheit" />
+        <item itemvalue="Application.AreaofCircleAndSquaare" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +198,29 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/three/oop/Calculator.java</url>
+          <line>19</line>
+          <properties class="three.oop.Calculator" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/three/oop/AboutMethod.java</url>
+          <line>20</line>
+          <properties class="three.oop.AboutMethod" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/three/oop/ObjectInitial.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
