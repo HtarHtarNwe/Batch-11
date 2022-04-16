@@ -24,3 +24,21 @@ class AbstractionEx extends Parent{
 
     }
 }
+/**
+ *
+ * Class --public class ClassName{
+ *
+ * }
+ *
+ * Abstract Class-- public abstract class ClassName{
+ *
+ * }
+ *
+ * abstract method (method without body)
+ * void send Message(String phoneNumber);
+ *
+ * non-abstract method  (method with body)
+ *void send Message(String phoneNumber){
+ *     //body
+ *}
+ */

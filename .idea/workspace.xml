@@ -2,29 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84d1630c-db5d-4222-9330-f2ee42fa6346" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Weekthreeexercise/ATMProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weekthreeexercise/FactorialExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/AbstractionEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/FakeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aggreation/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aggreation/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/instance_initializer/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/instance_initializer/PowerBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/AggregationEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/CastingEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/oop/final_keyword/AppFinalKeyWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/oop/final_keyword/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/oop/final_keyword/ObjectOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/Messaging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/Messenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggreation/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eight/ExampleInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eight/StringClassEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eight/StringClassExOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception_handling/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five/AbstractionEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five/AbstractionExOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five/Call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five/CustomWrapperClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five/InstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five/InterfaceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five/OlderBrother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five/RunTimePolimon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five/WrapperClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/five/YoungerBrother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/InheritanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/AtmCardUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/CoVarient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/FinalKeyWordEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/InitializerBlockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/MethodOverrideExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/PolymorphismEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/SuperKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printf_in_java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regularEx/MyanmarPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regularEx/RegularEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regularEx/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/WrapperClassEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/six_string/StringCompareEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/six_string/StringConcatenationEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/six_string/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/six_string/StringExtraMethodEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/six_string/SubStringEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three/oop/Model.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjectOne/Weekthreeexercise/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectOne/Weekthreeexercise/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjectOne/Weekthreeexercise/Horoscope.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectOne/Weekthreeexercise/Horoscope.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjectOne/aggreation/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectOne/aggreation/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjectOne/three/oop/ATMProject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weekthreeexercise/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Weekthreeexercise/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weekthreeexercise/Horoscope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Weekthreeexercise/Horoscope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectOne/aggreation/Aggregation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectOne/aggreation/Aggregation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectOne/three/oop/final_keyword/AppFinalKeyWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectOne/three/oop/final_keyword/AppFinalKeyWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstraction/AbstractionEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/AbstractionEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aggreation/Aggregation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aggreation/Aggregation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aggreation/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aggreation/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/three/oop/final_keyword/AppFinalKeyWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/three/oop/final_keyword/AppFinalKeyWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +85,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Horoscope">
-    <configuration name="ATMProject (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Weekthreeexercise.ATMProject" />
+  <component name="RunManager" selected="Application.StringExtraMethodEx">
+    <configuration name="StringCompareEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="six_string.StringCompareEx" />
       <module name="ProjectOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Weekthreeexercise.*" />
+          <option name="PATTERN" value="six_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CastingEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymorphism.CastingEx" />
+    <configuration name="StringConcatenationEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="six_string.StringConcatenationEx" />
       <module name="ProjectOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
+          <option name="PATTERN" value="six_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Weekthreeexercise.Factorial" />
+    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="six_string.StringExample" />
       <module name="ProjectOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Weekthreeexercise.*" />
+          <option name="PATTERN" value="six_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Weekthreeexercise.FactorialExercise" />
+    <configuration name="StringExtraMethodEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="six_string.StringExtraMethodEx" />
       <module name="ProjectOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Weekthreeexercise.*" />
+          <option name="PATTERN" value="six_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Horoscope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Weekthreeexercise.Horoscope" />
+    <configuration name="SubStringEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="six_string.SubStringEx" />
       <module name="ProjectOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Weekthreeexercise.*" />
+          <option name="PATTERN" value="six_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Horoscope" />
-        <item itemvalue="Application.CastingEx" />
-        <item itemvalue="Application.FactorialExercise" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.ATMProject (1)" />
+        <item itemvalue="Application.StringExtraMethodEx" />
+        <item itemvalue="Application.SubStringEx" />
+        <item itemvalue="Application.StringConcatenationEx" />
+        <item itemvalue="Application.StringCompareEx" />
+        <item itemvalue="Application.StringExample" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +231,24 @@
           </properties>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/seven/WrapperClassEx.java</url>
+          <line>2</line>
+          <properties class="seven.WrapperClassEx" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/eight/StringClassExOne.java</url>
+          <line>3</line>
+          <properties class="eight.StringClassExOne" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/three/oop/ObjectInitial.java</url>
           <line>15</line>
@@ -219,6 +258,11 @@
           <url>file://$PROJECT_DIR$/src/abstraction/AbstractionEx.java</url>
           <line>16</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/printf_in_java/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

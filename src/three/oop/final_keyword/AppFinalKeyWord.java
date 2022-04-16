@@ -1,8 +1,21 @@
 package three.oop.final_keyword;
 
-public class AppFinalKeyWord {
+class  parent6{
+     void show(){//can't extend "final void show"
+        System.out.println("Show Method");
+    }
+
+}
+
+public class AppFinalKeyWord extends parent6{
+    @Override
+    void show() {
+        super.show();
+    }
 
     static final float VALUE_OF_PI=24.110f;
+
+    private static  final int Hello=322;
 
     /**
      * Final Keyword
@@ -25,6 +38,10 @@ public class AppFinalKeyWord {
         int numberTwo=20;
         System.out.println(VALUE_OF_PI);
         System.out.println(numberTwo);
+
+        System.out.println(Hello);
+
+
 
     }
 
